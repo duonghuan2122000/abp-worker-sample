@@ -1,0 +1,5 @@
+C:\DBHuan\MyProject\web\Sora.AbpWorkerSample\Sora.AbpWorkerSample\obj\Debug\net5.0\Sora.AbpWorkerSample.csproj.AssemblyReference.cache
+C:\DBHuan\MyProject\web\Sora.AbpWorkerSample\Sora.AbpWorkerSample\obj\Debug\net5.0\Sora.AbpWorkerSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\DBHuan\MyProject\web\Sora.AbpWorkerSample\Sora.AbpWorkerSample\obj\Debug\net5.0\Sora.AbpWorkerSample.AssemblyInfoInputs.cache
+C:\DBHuan\MyProject\web\Sora.AbpWorkerSample\Sora.AbpWorkerSample\obj\Debug\net5.0\Sora.AbpWorkerSample.AssemblyInfo.cs
+C:\DBHuan\MyProject\web\Sora.AbpWorkerSample\Sora.AbpWorkerSample\obj\Debug\net5.0\Sora.AbpWorkerSample.csproj.CoreCompileInputs.cache
